@@ -1,0 +1,26 @@
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\Custom Tabs.exe
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\Custom Tabs.deps.json
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\Custom Tabs.runtimeconfig.json
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\Custom Tabs.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\Custom Tabs.pdb
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom_Tabs.Form1.resources
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom_Tabs.Properties.Resources.resources
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.csproj.GenerateResource.cache
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.AssemblyInfoInputs.cache
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.AssemblyInfo.cs
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.csproj.CoreCompileInputs.cache
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\refint\Custom Tabs.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.pdb
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.genruntimeconfig.cache
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\ref\Custom Tabs.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\System.Management.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom Tabs.csproj.AssemblyReference.cache
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom_Tabs.uc_Home.resources
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom_Tabs.UC_Inbox.resources
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom_Tabs.UC_Sent.resources
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom_Tabs.UC_Settingcs.resources
+D:\C# Part 2\Custom Tabs\Custom Tabs\obj\Debug\net8.0-windows\Custom T.6B3A5159.Up2Date

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Part 2\\Custom Tabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|d:\\c# part 2\\custom tabs\\custom tabs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|solutionrelative:custom tabs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|d:\\c# part 2\\custom tabs\\custom tabs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|solutionrelative:custom tabs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|D:\\C# Part 2\\Custom Tabs\\custom tabs\\uc_settingcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|solutionrelative:custom tabs\\uc_settingcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|D:\\C# Part 2\\Custom Tabs\\custom tabs\\uc_sent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|solutionrelative:custom tabs\\uc_sent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|D:\\C# Part 2\\Custom Tabs\\custom tabs\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|solutionrelative:custom tabs\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|d:\\c# part 2\\custom tabs\\custom tabs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA04F97-86FF-4A01-AFAA-52DD15AA5699}|Custom Tabs\\Custom Tabs.csproj|solutionrelative:custom tabs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Home.cs [Design]",
+              "DocumentMoniker": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\UC_Home.cs",
+              "RelativeDocumentMoniker": "Custom Tabs\\UC_Home.cs",
+              "ToolTip": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\UC_Home.cs [Design]",
+              "RelativeToolTip": "Custom Tabs\\UC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:43:43.016Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Sent.cs [Design]",
+              "DocumentMoniker": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\UC_Sent.cs",
+              "RelativeDocumentMoniker": "Custom Tabs\\UC_Sent.cs",
+              "ToolTip": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\UC_Sent.cs [Design]",
+              "RelativeToolTip": "Custom Tabs\\UC_Sent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:51:04.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Settingcs.cs [Design]",
+              "DocumentMoniker": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\UC_Settingcs.cs",
+              "RelativeDocumentMoniker": "Custom Tabs\\UC_Settingcs.cs",
+              "ToolTip": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\UC_Settingcs.cs [Design]",
+              "RelativeToolTip": "Custom Tabs\\UC_Settingcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:50:40.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\Form1.cs",
+              "RelativeDocumentMoniker": "Custom Tabs\\Form1.cs",
+              "ToolTip": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\Form1.cs [Design]",
+              "RelativeToolTip": "Custom Tabs\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:45:52.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Custom Tabs\\Form1.Designer.cs",
+              "ToolTip": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\Form1.Designer.cs",
+              "RelativeToolTip": "Custom Tabs\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:45:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\Form1.cs",
+              "RelativeDocumentMoniker": "Custom Tabs\\Form1.cs",
+              "ToolTip": "D:\\C# Part 2\\Custom Tabs\\Custom Tabs\\Form1.cs",
+              "RelativeToolTip": "Custom Tabs\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:24:00.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
